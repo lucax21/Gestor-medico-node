@@ -19,4 +19,4 @@ class Physician extends Sequelize.Model {
     }
 }
 
-module.exports = Physicians;
+module.exports = Physician;
